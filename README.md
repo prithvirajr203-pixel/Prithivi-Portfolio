@@ -26,12 +26,6 @@ I am R. Prithiviraj, an Integrated M.Tech Computer Science student passionate ab
 
 ## Getting Started
 
-Clone the repository:
-
-```bash
-git clone https://github.com/prithvirajr203-pixel/Prithivi-Portfolio.git
-cd Prithivi-Portfolio
-```
 
 Install dependencies:
 
