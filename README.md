@@ -1,60 +1,60 @@
-# Prithiviraj R. — Portfolio
+# Prithivi-Portfolio
 
-A premium, futuristic personal portfolio built with React, Vite, Tailwind CSS,
-Framer Motion, Three.js and React Three Fiber.
+A premium personal portfolio showcasing my expertise in **Agentic AI, Generative AI, AI Automation, and Full-Stack Development**.
 
-## Getting started
+## About
+
+I am R. Prithiviraj, an Integrated M.Tech Computer Science student passionate about building intelligent solutions using AI agents, LLMs, and automation technologies.
+
+## Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Three.js
+- React Three Fiber
+
+## Features
+
+- Modern, responsive portfolio design
+- Interactive animations and 3D elements
+- Projects and client work showcase
+- Skills and experience
+- Certifications and achievements
+- Contact and social media links
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/prithvirajr203-pixel/Prithivi-Portfolio.git
+cd Prithivi-Portfolio
+```
+
+Install dependencies:
 
 ```bash
 npm install
-npm run dev       # start local dev server
-npm run build      # production build -> dist/
-npm run preview    # preview the production build locally
 ```
 
-Requires Node.js 18+.
+Start the development server:
 
-## Adding your real assets
+```bash
+npm run dev
+```
 
-The site ships with clean placeholders everywhere real media is missing.
-Drop your files into the exact paths below and they will automatically
-replace the placeholders — no code changes needed.
+Build for production:
 
-| Asset | Path |
-|---|---|
-| Profile photo | `public/images/profile/profile-photo.png` |
-| Resume (PDF) | `public/resume/R.Prithiviraj Resume.pdf` |
-| IT Support project image/video | `public/images/projects/it-support.png`, `public/videos/projects/it-support-demo.mp4` |
-| ScamShield AI image/video | `public/images/projects/scamshield.png`, `public/videos/projects/scamshield-demo.mp4` |
-| Gesture YOLO image/video | `public/images/projects/gesture-yolo.png`, `public/videos/projects/gesture-yolo-demo.mp4` |
-| Staff Duty Allocation image/video | `public/images/projects/staff-duty.png`, `public/videos/projects/staff-duty-demo.mp4` |
-| DD Art Academy client image/video | `public/images/client/ddartacademy.png`, `public/videos/client/ddartacademy-demo.mp4` |
-| Book cover | `public/images/book/agentic-shift-cover.png` |
-| Certificates | `public/images/certificates/claude-101.png`, `claude-cowork.png`, `ai-fluency-capabilities.png`, `ai-fluency-builders.png`, `python.png` |
+```bash
+npm run build
+```
 
-If an image or video file is missing at build time, the component detects
-the load failure and shows a premium placeholder instead of a broken image —
-nothing will ever look broken.
+## Connect With Me
 
-## Editing content
+- **GitHub:** https://github.com/prithvirajr203-pixel
+- **LinkedIn:** https://www.linkedin.com/in/prithviraj-r-5999362a3
 
-All text content lives in `src/data/*.js` — edit those files to update
-project descriptions, experience, skills, certifications, and achievements
-without touching any component code.
 
-Update the placeholder email and social links in `src/components/Contact.jsx`
-and `src/components/SocialLinks.jsx` (marked with `TODO` comments) with your
-real GitHub, LinkedIn and email address before deploying.
-
-## Tech stack
-
-- React 18 + Vite
-- Tailwind CSS
-- Framer Motion
-- Three.js + React Three Fiber (lazy-loaded for performance)
-
-## Design system
-
-Colors are defined as CSS/Tailwind tokens in `tailwind.config.js`:
-black, dark background, metallic gold, silver, white — no blue anywhere,
-per the brand brief.
+Developed by **R. Prithiviraj**.
